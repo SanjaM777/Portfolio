@@ -1,0 +1,47 @@
+[debug] [2024-01-12T03:31:01.296Z] ----------------------------------------------------------------------
+[debug] [2024-01-12T03:31:01.298Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-12T03:31:01.299Z] CLI Version:   13.0.3
+[debug] [2024-01-12T03:31:01.299Z] Platform:      win32
+[debug] [2024-01-12T03:31:01.299Z] Node Version:  v20.10.0
+[debug] [2024-01-12T03:31:01.299Z] Time:          Fri Jan 12 2024 12:31:01 GMT+0900 (Japan Standard Time)
+[debug] [2024-01-12T03:31:01.299Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-12T03:31:01.368Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-12T03:31:01.368Z] > authorizing via signed-in user (eternalguardian0607@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  F:\Nextjs-portfolio
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2024-01-12T03:31:22.273Z] Using project from CLI flag: eternalguardian-0
+[debug] [2024-01-12T03:31:22.279Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 [none]
+[debug] [2024-01-12T03:31:23.053Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 200
+[debug] [2024-01-12T03:31:23.053Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 {"projectId":"eternalguardian-0","projectNumber":"689842672994","displayName":"eternalguardian-0","name":"projects/eternalguardian-0","resources":{"hostingSite":"eternalguardian-0"},"state":"ACTIVE","etag":"1_c7332987-6278-4680-9ba7-cb229770d21f"}
+[info] i  Using project eternalguardian-0 (eternalguardian-0) 
+[info] 
+=== Hosting Setup
+[debug] [2024-01-12T03:31:23.108Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 [none]
+[debug] [2024-01-12T03:31:23.490Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 200
+[debug] [2024-01-12T03:31:23.491Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/eternalguardian-0 {"projectId":"eternalguardian-0","projectNumber":"689842672994","displayName":"eternalguardian-0","name":"projects/eternalguardian-0","resources":{"hostingSite":"eternalguardian-0"},"state":"ACTIVE","etag":"1_c7332987-6278-4680-9ba7-cb229770d21f"}
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
