@@ -13,10 +13,22 @@ const About = () => {
           <div className='col-span-2 text-left text-xl'>
             <h2 className='text-left text-5xl my-4 py-2 font-Merriweather ' style={{ color: '#ffff00' }}>About me</h2>
             <p className='text-left'>
-              My slogan is 'work makes me true and necessary'.
-              Discover the future of web development with Yuya, where innovation meets craftsmanship. I harness the power of full-stack technology to create robust, intuitive, and adaptive web solutions. My mission is to transform your challenges into cutting-edge experiences that leave a lasting impact.
-              With over 6 years of industry expertise in technologies like Next.js, React, Node.js, and MongoDB, I'm dedicated to broadening my technical horizons and bringing your visionary projects to life.
-              Let's delve into a partnership that redefines digital excellence. Pushing boundaries is not just a task for me – it's the passion that fuels constant learning and growth. Together, we’ll build a web presence that stands out.
+            Many people question why I, as a woman, chose a career in development. I firmly believe that technology knows no gender, and women are just as capable of changing the world. Fueled by this belief, I pursued a bachelor's degree and delved into the world of programming, crafting numerous web and mobile applications along the way.
+
+My mantra, 'Working makes me true and necessary,' encapsulates my dedication to my craft in a single phrase. With a Bachelor's degree under my belt, I embarked on my journey as a full-stack developer, accumulating four years of invaluable experience. It wasn't always easy mastering various programming languages, but I persisted and conquered challenges one by one.
+
+Today, I boast proficiency in a range of languages including C++, Python, JavaScript, TypeScript, C#, and PHP, among others. In the realm of full-stack development, I specialize in React, Next.js, Node.js, Express.js, Nest.js, PHP, Laravel, Java, MongoDB, Firebase, Vue, and Angular.
+
+My skill set extends beyond mere technical proficiency. I am deeply committed to delivering excellence and earning the trust of my clients. This commitment drives me to continually hone my skills and stay abreast of industry trends.
+
+On a personal note, my journey into development was sparked by a childhood fascination with technology. Growing up, I spent countless hours tinkering with computers and teaching myself to code. This passion eventually blossomed into a fulfilling career, where each day presents new opportunities for growth and innovation.
+
+In addition to my professional endeavors, I am an avid advocate for diversity and inclusion in the tech industry. I actively mentor aspiring developers, particularly women, and strive to create a more equitable and welcoming environment for all.
+
+As I continue on my journey, I remain steadfast in my belief that women have an essential role to play in shaping the future of technology. Through hard work, determination, and a love for coding, I am determined to make my mark and inspire others to do the same.
+
+Thank you for visiting my profile.
+
             </p>
             <p className='my-2 text-left'>
               <strong className='font-Merriweather' style={{ color: "#ffff00" }}>Core Skills:</strong>
