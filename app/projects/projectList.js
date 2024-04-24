@@ -1,4 +1,4 @@
-import { hero, todolist, calorie, tictactoe, quiz,swaad,portfolio} from '../images/index'
+import { Bcgame, threedmap, SportUniformConfi, tictactoe,Heroforge,MetaMap} from '../images/index'
 const list = [
     {
         id: 1,
