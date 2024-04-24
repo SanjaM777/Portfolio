@@ -39,7 +39,7 @@ const list = [
     }, {
         id: 6,
         title: "DSA Quiz",
-        link: 'https://mern-quiz-app-coral.vercel.app/',
+        link: 'http://162.255.116.172:7100/',
         about: "mbarking on a pioneering journey into the gaming sphere, I have orchestrated an avant-garde gaming project by merging the technological prowess of Node.js, PIXI.js, and blockchain. This endeavor is not just a game; it’s an integration of real-time interaction, stunning visuals, and secure digital ownership, setting a new benchmark in the gaming industry. Here's an insight into my contributions and responsibilities within this cutting-edge project",
         technologies: ['MERN', 'react-bootstrap', 'notistack', 'redux'],
         image: Bcgame,
