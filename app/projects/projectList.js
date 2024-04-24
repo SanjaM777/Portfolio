@@ -21,7 +21,7 @@ const list = [
         link:'https://nextjs-portfolio-kappa-one.vercel.app/',
         about:'This is my portfolio website, Where you can find all my projects and blogs, and also you can contact me through this website.',
         technologies:['Nextjs','Tailwind CSS'],
-        image:portfolio,
+        image:MetaMap,
     },{
         id: 4,
         title: 'Tic Tac Toe game',
