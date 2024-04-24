@@ -5,7 +5,7 @@ export default function Loader() {
                 <div className="flex justify-center">
                     <div className="animate-spin inline-block w-6 h-6 border-[3px] border-current border-t-transparent text-600 rounded-full dark:text-blue-500" role="status" aria-label="loading" style={{ color: '#ffff00' }}>
                     </div>
-                    <span style={{ color: '#ffff00' }}>Loading Yuya Portfolio...</span>
+                    <span style={{ color: '#ffff00' }}>Loading Hannah Portfolio...</span>
                 </div>
             </div>
         </div>

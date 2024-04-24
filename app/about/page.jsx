@@ -33,7 +33,7 @@ Thank you for visiting my profile.
             <p className='my-2 text-left'>
               <strong className='font-Merriweather' style={{ color: "#ffff00" }}>Core Skills:</strong>
               <br />
-              Python, React.js, Next.js, Node.js, MongoDB, Block Chain
+              Three.js,WebGL,Web3.js, React.js, Next.js, Node.js, MongoDB, Block Chain
             </p>
 
             <p className='my-2 text-left'>
