@@ -48,6 +48,7 @@ const skillList = {
         <ul>
           <li>Python</li>
           <li>C/C++</li>
+          <li>web3.js</li>
         </ul>
       </div>
     </SkillData>
@@ -79,13 +80,14 @@ const skillList = {
       </div>
       <div className="skill-data_skill-names">
         <ul>
-          <li>HTML</li>
           <li>CSS</li>
           <li>Bootstrap</li>
           <li>Tailwind Css</li>
         </ul>
         <ul>
           <li>React.js</li>
+          <li>THree.js</li>
+          <li>PIXI.js</li>
           <li>Next.js</li>
           <li>TypeScript</li>
         </ul>

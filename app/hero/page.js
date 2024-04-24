@@ -33,7 +33,7 @@ const Hero = () => {
                     <h3 className="leading-tight text-3xl" style={{ color: '#ffff00' }}>
                     Hello！ I am 
                     </h3>
-                    <h2 className='mt-2 text-white text-6xl font-Merriweather'>Yuya</h2>
+                    <h2 className='mt-2 text-white text-6xl font-Merriweather'>Hnnnah</h2>
                     <p className='text-3xl sm:text-4xl lg:text-4xl mt-1' id="typewriter" style={{ color: "#ffff00" }}></p>
                     <p className='text-3xl ' style={{ color: 'white' }}>Transform your web presence - create a customized solution to fit your vision.</p>
                     <p className='text-xl mt-2' style={{ color: 'white' }}>
